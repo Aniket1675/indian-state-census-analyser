@@ -1,5 +1,4 @@
 package com.bridgelabz;
-
 /**
  * @description create Class for Defining the Census Analyser Exception
  *
